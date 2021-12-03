@@ -14,6 +14,7 @@ fun main() {
     println(
         """
         Part 1 :         ${day02.part1()}
+        Part 2 :         ${day02.part2()}
     """.trimIndent()
     )
 }

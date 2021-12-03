@@ -20,4 +20,9 @@ internal class Day02Test {
     fun `part1 should return 150`(){
         day02.part1() shouldBeExactly 150
     }
+
+    @Test
+    fun `part2 should return 900`(){
+        day02.part2() shouldBeExactly 900
+    }
 }
